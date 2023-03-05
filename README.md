@@ -12,7 +12,7 @@
 
  <p>
     <img src="https://user-images.githubusercontent.com/76692648/222954915-8cb64c34-e0bf-4a8e-b749-72538c992d0d.png" alt><br/>
-    <em>Process Flow</em>
+    <em>Task Flow</em>
 </p>
 
 ## Multi-Threading Implementation
